@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <!-- Main Homepage -->
+    <url>
+        <loc>https://astreyon.ai/</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://astreyon.ai/en"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://astreyon.ai/de"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://astreyon.ai/fr"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://astreyon.ai/it"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://astreyon.ai/es"/>
+    </url>
+
+    <!-- Blog Pages -->
+    <url>
+        <loc>https://astreyon.ai/blog</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.9</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="https://astreyon.ai/en/blog"/>
+        <xhtml:link rel="alternate" hreflang="de" href="https://astreyon.ai/de/blog"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://astreyon.ai/fr/blog"/>
+        <xhtml:link rel="alternate" hreflang="it" href="https://astreyon.ai/it/blog"/>
+        <xhtml:link rel="alternate" hreflang="es" href="https://astreyon.ai/es/blog"/>
+    </url>
+
+    <!-- Language Versions - Main Pages -->
+    <url>
+        <loc>https://astreyon.ai/en</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://astreyon.ai/de</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://astreyon.ai/fr</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://astreyon.ai/it</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://astreyon.ai/es</loc>
+        <lastmod>2025-01-18</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>

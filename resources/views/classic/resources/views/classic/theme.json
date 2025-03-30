@@ -1,0 +1,28 @@
+{
+	"name": "classic",
+	"extends": "default",
+	"asset-path": "themes\/classic",
+	"wideLayoutPaddingX": "px-4 lg:px-10",
+	"defaultVariations": {
+		"card": {
+			"variant": "outline-shadow",
+			"size": "md",
+			"roundness": "none"
+		},
+		"table": {
+			"variant": "outline-shadow",
+			"size": "md",
+			"roundness": "none"
+		}
+	},
+	"dashboard": {
+		"googleFonts": {
+			"Poppins": [
+				"400",
+				"500",
+				"600",
+				"700"
+			]
+		}
+	}
+}

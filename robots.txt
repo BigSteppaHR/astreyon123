@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /register
+Disallow: /forgot-password
+Disallow: /google/redirect
+
+# Allow all language versions
+Allow: /en/
+Allow: /de/
+Allow: /fr/
+Allow: /it/
+Allow: /es/
+
+Sitemap: https://astreyon.ai/sitemap.xml
